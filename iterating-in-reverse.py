@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
+This is a quote from the book:
 
 Reversed iteration only works if the object in question has a size
  that can be determined or if the object implements 
